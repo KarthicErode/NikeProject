@@ -6,3 +6,7 @@ public void TC1(){
 public void TC2(){
 //this is the nike second test cas;
 }
+
+pulic void tc3(){
+//this is the branch one
+}
